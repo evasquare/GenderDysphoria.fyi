@@ -1,13 +1,13 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "What is Gender?"
-description: "How do we define the concept of Gender, and how does it differ from Sex?"
+title: "젠더가 무엇인가요?"
+description: "젠더의 개념을 어떻게 정의하고, 젠더가 성별과 어떻게 다른가요?"
 preBody: '_disclaimer'
 siblings:
   prev: /en/
-  prevCaption: Introduction
+  prevCaption: 소개
   next: /en/history
-  nextCaption: The History of Gender Dysphoria
+  nextCaption: 젠더 불쾌감의 역사
 classes:
   - gdb
 tweets:
@@ -15,7 +15,7 @@ tweets:
   - '1439225913623781377'
 ---
 
-# What is Gender?
+# 젠더가 무엇인가요?
 
 {!{
 <div class="gutter">
